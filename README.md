@@ -1,1 +1,2 @@
 # myhomepage
+theme:minima
